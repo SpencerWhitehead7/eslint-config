@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config",
+  "version": "0.1.0",
+  "description": "personal eslint config for personal projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpencerWhitehead7/eslint-config.git"
+  },
+  "author": "SpencerWhitehead7",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/SpencerWhitehead7/eslint-config/issues"
+  },
+  "homepage": "https://github.com/SpencerWhitehead7/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": "7.32.0",
+    "eslint-plugin-react": "7.24.0",
+    "eslint-plugin-react-hooks": "4.2.0"
+  }
+}
