@@ -340,13 +340,7 @@ module.exports = {
     'sort-keys': 0,
     'sort-vars': 0,
     'space-before-blocks': 1,
-    'space-before-function-paren': [
-      1, {
-        anonymous: `never`,
-        named: `never`,
-        asyncArrow: `always`,
-      },
-    ],
+    'space-before-function-paren': [1, `always`],
     'space-in-parens': 1,
     'space-infix-ops': 1,
     'space-unary-ops': [
